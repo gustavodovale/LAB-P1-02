@@ -17,3 +17,6 @@ pip install numpy pandas
 
 #### Para roda:
 executa no temrinal na pasta onde tá o arquivo: python main.py
+
+#### Uso de IA Generativa
+Uso de IA Generativa: Ferramentas de IA (Gemini/ChatGPT) foram consultadas exclusivamente para brainstorming de sintaxe do NumPy (como o uso de operadores de multiplicação de matriz @, swapaxes e regras de broadcasting para a LayerNorm).
